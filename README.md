@@ -3,7 +3,7 @@ The script "ODE_Bayesian_inference_Metabolite_bacteria_Interactions.R" is used t
 The script "ODE_Bayesian_inference_Metabolite_bacteria_Interactions_Diagnostics_Analysis.R" is used for all analyses and diagnostics and includes figure construction.
 Comments and explanations are included in the scripts.
 
-The data generated can be found here: DOI:10.5281/zenodo.17053090
+The data generated can be found here: https://doi.org/10.5281/zenodo.17078524
 
 The R libraries needed to execute both script fully are:
 library(deSolve)
